@@ -1,0 +1,22 @@
+﻿
+@model Category
+<div class="container mt-5">
+<div class="row flex-grow">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Work Category</h4>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label asp-for="Name">Category Name</label>
+                        <input type="text" class="form-control" asp-for="Name" placeholder="Add Category name">
+                        <span asp-validation-for="Name" style="color:red"></span>
+                    </div>
+                    <button type="submit" class="btn btn-success mr-2">Submit</button>
+                    <button class="btn btn-light"asp-area="Admin" asp-controller="Category" asp-action="Index">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
