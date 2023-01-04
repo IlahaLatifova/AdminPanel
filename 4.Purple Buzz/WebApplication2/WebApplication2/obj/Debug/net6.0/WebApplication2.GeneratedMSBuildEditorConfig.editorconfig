@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication2
 build_property.RootNamespace = WebApplication2
-build_property.ProjectDir = C:\Users\hp\Desktop\PurpleBuzz\3.Front To Back Task\WebApplication2\WebApplication2\
+build_property.ProjectDir = C:\Users\hp\Desktop\AdminPanel\4.Purple Buzz\WebApplication2\WebApplication2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\PurpleBuzz\3.Front To Back Task\WebApplication2\WebApplication2
+build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\AdminPanel\4.Purple Buzz\WebApplication2\WebApplication2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Create.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Update.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/Dashboard/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/About/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Contact/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Home/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Pricing/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Pricing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Shared/_Layout.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Shared/_WorkCategoryPartialView.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Shared/_WorkCategoryPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Xb3JrQ2F0ZWdvcnlQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/Work/Index.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/Work/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/_ViewImports.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/PurpleBuzz/3.Front To Back Task/WebApplication2/WebApplication2/Views/_ViewStart.cshtml]
+[C:/Users/hp/Desktop/AdminPanel/4.Purple Buzz/WebApplication2/WebApplication2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -10023,11 +10023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\PurpleBuzz\\3.Front To Back Task\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\AdminPanel\\4.Purple Buzz\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\hp\\Desktop\\PurpleBuzz\\3.Front To Back Task\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\AdminPanel\\4.Purple Buzz\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\PurpleBuzz\\3.Front To Back Task\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\AdminPanel\\4.Purple Buzz\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

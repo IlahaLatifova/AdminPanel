@@ -24,7 +24,30 @@
 <!-- End Banner Hero -->
 <!-- Start Our Work -->
 <section class="container py-5">
+    <div class="row justify-content-center my-5">
+        <div class="filter-btns shadow-md rounded-pill text-center col-auto">
+
+            @foreach (var item in Model.Categories)
+            {
+                int count = 0;
+                if (count == 0)
+                {
+                    <a class="filter-btn btn rounded-pill btn-outline-primary border-0 m-md-2 px-md-4 active" data-filter=".@item.Id" href="#">@item.Name</a>
+                    count++;
+                }
+                else
+                {
+                    <a class="filter-btn btn rounded-pill btn-outline-primary border-0 m-md-2 px-md-4" data-filter=".@item.Id" href="#">@item.Name</a>
+
+                }
+            }
+
+
+        </div>
+    </div>
+    <div class="row projects gx-lg-5 my-5" style="position: relative; height: 1684.8px;">
     @Html.Partial("_WorkCategoryPartialView")
+    </div>
     <div class="row">
         <div class="btn-toolbar justify-content-center pb-4" role="toolbar" aria-label="Toolbar with button groups">
             <div class="btn-group me-2" role="group" aria-label="First group">

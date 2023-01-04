@@ -3,32 +3,11 @@
 
 
 
-<div class="row justify-content-center my-5">
-    <div class="filter-btns shadow-md rounded-pill text-center col-auto">
-       
-        @foreach (var item in Model.Categories)
-        {
-           int count = 0;
-            if (count == 0)
-            {
-                <a class="filter-btn btn rounded-pill btn-outline-primary border-0 m-md-2 px-md-4 active" data-filter=".@item.Id" href="#">@item.Name</a>
-                count++;
-            }
-            else
-            {
-                <a class="filter-btn btn rounded-pill btn-outline-primary border-0 m-md-2 px-md-4" data-filter=".@item.Id" href="#">@item.Name</a>
-
-            }
-        }
 
 
-    </div>
-</div>
-
-<div class="row projects gx-lg-5" style="position: relative; height: 1684.8px;">
     @foreach (Product item in Model.Products)
     {
-        <a href="work-single.html" class="col-sm-6 col-lg-4 text-decoration-none project @item.Category.Id">
+        <a href="work-single.html" class="col-sm-6 col-lg-3 text-decoration-none project @item.Category.Id">
             <div class="service-work overflow-hidden card mb-5 mx-5  m-sm-0">
                 <img class="card-img-top" src="~/assets/img/@item.Image" alt="...">
                 <div class="card-body mb-5">
@@ -43,4 +22,3 @@
             </div>
         </a>
     }
-</div>

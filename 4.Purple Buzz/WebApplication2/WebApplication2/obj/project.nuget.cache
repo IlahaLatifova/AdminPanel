@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x0m4ZFWlm6SgUOnjDDvaKy0aP3TXU7ApalkMAj0Yg1SP5b+3Dbqa4qfvqA9h1YXHsK2Z8TvbKws6CYx9T+KX8A==",
+  "dgSpecHash": "weY8IbGkVO7SyrSzuFcVkoXBYVx0gSg6U49VLsZAymOgipVL+/PFV7IQ3n5QprXbhUrneVCcpOE4GMm8c4Gk9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\PurpleBuzz\\3.Front To Back Task\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\AdminPanel\\4.Purple Buzz\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

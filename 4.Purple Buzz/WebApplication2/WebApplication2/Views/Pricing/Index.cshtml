@@ -4,7 +4,15 @@
 }
 
 <!-- Start pricing -->
-    @Html.Partial("_WorkCategoryPartialView")
+<section class="container py-5">
+     <div class="row services gx-lg-5 my-5" style="position: relative; ">
+        @Html.Partial("_WorkCategoryPartialView")
+    </div>
+    <div>
+        <a class="btn btn-primary load-more">Load More... </a>
+    </div>
+
+</section>
 
 <div class="container-lg py-5">
     <div class="col-md-12 m-auto text-center py-5">

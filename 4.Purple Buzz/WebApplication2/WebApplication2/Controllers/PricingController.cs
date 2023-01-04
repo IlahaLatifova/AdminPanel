@@ -18,11 +18,24 @@ namespace WebApplication2.Controllers
             {
                 Categories = await _context.Categories.ToListAsync(),
                 Products = await _context.Products
+                .Take(4)
                 .Include(p => p.Category)
                 .ToListAsync()
             };
             return View(workVM);
         }
+        public IActionResult LoadMore()
+        {
+            int count = 0;
 
+            var services = _context.Products
+             .Skip(count)
+             .Take(4)
+             .Include(p => p.Category)
+             .ToList();
+
+            count += 4;
+            return PartialView("_WorkCategoryPartialView", services);
+        }
     }
 }

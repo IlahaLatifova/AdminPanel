@@ -19,6 +19,7 @@ namespace WebApplication2.Controllers
             {
                 Categories = await _context.Categories.ToListAsync(),
                 Products = await _context.Products
+                .Take(4)
                 .Include(p=>p.Category)
                 .ToListAsync()
             };
